@@ -66,4 +66,3 @@ describe('testa o compondente App', () => {
     expect(notFoundEl).toBeInTheDocument();
   });
 });
-
