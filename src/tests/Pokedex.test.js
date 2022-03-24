@@ -52,7 +52,6 @@ describe('Testa o componente Pokedex', () => {
 
       expect(pokemonName.innerHTML).toBe('Pikachu');
       expect(pokemonType.innerHTML).toBe('Electric');
-      console.log(pokemonName.innerHTML);
     });
 
   it('testa se é mostrado apenas um Pokémon por vez',
